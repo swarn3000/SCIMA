@@ -15,6 +15,7 @@
     </div>
         <asp:DropDownList ID="DropDownList1" runat="server">
         </asp:DropDownList>
+        <asp:HyperLink ID="HyperLink1" runat="server">HyperLink</asp:HyperLink>
     </form>
 </body>
 </html>
