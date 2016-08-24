@@ -11,6 +11,20 @@ namespace SCIMA
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            LinkButton1.Text = "Main page";
+            LinkButton2.Text = "New perscription";
+            LinkButton3.Text = "Recall prescription";
+            LinkButton4.Text = "Logout";
+
+            Label1.Text = "User is logged in as:";
+            Label2.Text = "Not this user? Please logout.";
+
+            Button1.Text = "New perscription";
+            Button2.Text = "Recall previous prescription";
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
 
         }
     }

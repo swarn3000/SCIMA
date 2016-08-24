@@ -210,6 +210,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="SCIMA Final-page-001.jpg" />
     <Content Include="WebForm1.aspx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.22.19-build00125.js" />
