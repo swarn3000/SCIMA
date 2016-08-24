@@ -40,26 +40,26 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style3">
-                    <asp:LinkButton ID="LinkButton1" runat="server">Main page</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton1" runat="server" Font-Names="Arial">Main Page</asp:LinkButton>
                 </td>
                 <td class="auto-style3">
-                    <asp:LinkButton ID="LinkButton2" runat="server">New perscription</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton2" runat="server" Font-Names="Arial">New Prescription</asp:LinkButton>
                 </td>
                 <td class="auto-style3">
-                    <asp:LinkButton ID="LinkButton3" runat="server">Recall prescription</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton3" runat="server" Font-Names="Arial">Recall Prescription</asp:LinkButton>
                 </td>
                 <td class="auto-style3">
-                    <asp:LinkButton ID="LinkButton4" runat="server">Logout</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton4" runat="server" Font-Names="Arial">Logout</asp:LinkButton>
                 </td>
             </tr>
         </table>
         <table class="auto-style1">
             <tr>
                 <td class="auto-style5">
-                    <asp:Label ID="Label1" runat="server" Text="User is logged in as:"></asp:Label>
+                    <asp:Label ID="Label1" runat="server" Text="User is logged in as:" Font-Names="Arial"></asp:Label>
                 </td>
                 <td class="auto-style4">
-                    <asp:Label ID="Label2" runat="server" Text="Not this user? Please logout."></asp:Label>
+                    <asp:Label ID="Label2" runat="server" Text="Not this user? Please logout." Font-Names="Arial"></asp:Label>
                 </td>
             </tr>
         </table>
@@ -68,7 +68,7 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style3">
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="New perscription" />
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="New prescription" Font-Names="Arial" />
                 </td>
             </tr>
         </table>
