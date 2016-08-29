@@ -68,7 +68,7 @@
         <table class="auto-style1">
             <tr>
                 <td class="auto-style3">
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="New prescription" Font-Names="Arial" />
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="New prescription" Font-Names="Arial" PostBackUrl="~/WebForm2.aspx" />
                 </td>
             </tr>
         </table>
