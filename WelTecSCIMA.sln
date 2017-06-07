@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelTecSCIMA", "WebApplication3\WelTecSCIMA.csproj", "{02504877-C02A-4041-99CD-817E9A48325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recipe_page_1", "recipe_page_1\recipe_page_1.csproj", "{EC07A2D3-B3C1-4209-9887-ED9B5308DCED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F776327-939A-4893-8288-5DB601588C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02504877-C02A-4041-99CD-817E9A48325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02504877-C02A-4041-99CD-817E9A48325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02504877-C02A-4041-99CD-817E9A48325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02504877-C02A-4041-99CD-817E9A48325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC07A2D3-B3C1-4209-9887-ED9B5308DCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC07A2D3-B3C1-4209-9887-ED9B5308DCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC07A2D3-B3C1-4209-9887-ED9B5308DCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC07A2D3-B3C1-4209-9887-ED9B5308DCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ccdhbapps.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApplication3\\WelTecSCIMA.csproj
+		SccProjectName1 = WebApplication3
+		SccLocalPath1 = WebApplication3
+		SccProjectUniqueName2 = recipe_page_1\\recipe_page_1.csproj
+		SccProjectName2 = recipe_page_1
+		SccLocalPath2 = recipe_page_1
+	EndGlobalSection
+EndGlobal
